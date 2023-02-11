@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rashmiisharmil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashmiisharmil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rashmi sharmila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi sharmila" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rashmi sharmila](https://www.linkedin.com/in/rashmi-sharmila-5ba642252/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi sharmila" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rashmi sharmila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rashmi sharmila" height="30" width="40" /></a>
 <a href="https://instagram.com/_.rashmi_sharmila._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rashmi_sharmila._" height="30" width="40" /></a>
 </p>
