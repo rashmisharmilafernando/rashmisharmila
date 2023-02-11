@@ -1,8 +1,8 @@
-<img src="https://viewer.desygner.com/uWqQtiH4N3T">
+<img src="https://media.istockphoto.com/id/1150453750/vector/teenage-girk-working-on-computer-in-classroom.jpg?s=612x612&w=0&k=20&c=Ny8n-jcvLVf9mYX3MlMk_mRM0fW1DNuqCTrDY27B72M=">
 <h1>Hi 👋, I'm Rashmi Sharmila</h1>
 
-<h3 align="center">I'm currently enrolled as a student in the BSc (Hons) in Computer Science at the Institute of Software Engineering (IJSE) and pursuing an undergraduate degree. 🎓</h3>
-
+<h3>A student in the BSc (Hons) in Computer Science at the Institute of Software Engineering (IJSE) undergraduate degree.</h3>
+<h3>A student counselor and academy coordinator at the ACPT</h3>
 - 🌱 I’m currently learning **Internet Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rashmisharmila/MyProfile](https://github.com/rashmisharmila/MyProfile)
