@@ -1,3 +1,4 @@
+<img src="https://viewer.desygner.com/uWqQtiH4N3T">
 <h1>Hi 👋, I'm Rashmi Sharmila</h1>
 
 <h3 align="center">I'm currently enrolled as a student in the BSc (Hons) in Computer Science at the Institute of Software Engineering (IJSE) and pursuing an undergraduate degree. 🎓</h3>
