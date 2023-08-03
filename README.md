@@ -21,9 +21,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rashmi_sharmila._" height="30" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools: </h3>
-
-          
+<h3 align="left">Languages and Tools: </h3>          
 [![My Skills](https://skills.thijs.gg/icons?i=java,mysql,html,css,js,jquery,nodejs,figma,react&theme=light)](https://skills.thijs.gg)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmisharmila&show_icons=true&locale=en&layout=compact" alt="rashmisharmila" /></p>
