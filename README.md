@@ -3,11 +3,11 @@
 
 <h3>A student in the BSc (Hons) in Computer Science at the Institute of Software Engineering (IJSE) undergraduate degree.</h3>
 <h3>A student counselor and academy coordinator at the ACPT</h3>
-- 🌱 I’m currently learning **Spring & React native**
+- 🌱 I’m currently learning Spring & React native
 
 - 👨‍💻 All of my projects are available at [https://github.com/rashmisharmila/MyProfile](https://github.com/rashmisharmila/MyProfile)
 
-- 📫 How to reach me **rsrashi0430@gmail.com**
+- 📫 How to reach me rsrashi0430@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
