@@ -22,6 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools: </h3>          
+
 [![My Skills](https://skills.thijs.gg/icons?i=java,mysql,html,css,js,jquery,nodejs,figma,react&theme=light)](https://skills.thijs.gg)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmisharmila&show_icons=true&locale=en&layout=compact" alt="rashmisharmila" /></p>
