@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/92/d5/ee/92d5ee304d0a6d5112fc66b855e52228.jpg">
+<img src="https://i.pinimg.com/564x/59/af/9c/59af9ce2696e848a807caf70e9514908.jpg">
 <h1>Hi 👋, I'm Rashmi Sharmila</h1>
 
 <h3>A student in the BSc (Hons) in Computer Science at the Institute of Software Engineering (IJSE) undergraduate degree.</h3>
