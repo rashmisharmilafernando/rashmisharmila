@@ -1,24 +1,25 @@
 <img src="https://i.pinimg.com/564x/59/af/9c/59af9ce2696e848a807caf70e9514908.jpg">
-<h1>Hi 👋, I'm Rashmi Sharmila</h1>
+<h1>Hi 👋, Hi there! 👋 I'm Rashmi Sharmila</h1>
 
-<h3>A student in the BSc (Hons) in Computer Science at the Institute of Software Engineering (IJSE) undergraduate degree.</h3>
+<h3>I'm a passionate Computer Science student currently pursuing my BSc (Hons) at the Institute of Software Engineering (IJSE). I have a keen interest in full stack development and am currently immersed in a MERN stack project that I'm excited to share with you.</h3>
 
-- 🌱 I’m currently learning Spring & React native
+<h2>🚀 About Me</h2> 
 
-- 👨‍💻 All of my projects are available at [https://github.com/rashmisharmila/MyProfile](https://github.com/rashmisharmila/MyProfile)
+- 🎓 Studying BSc (Hons) in Computer Science at IJSE.
+- 💻 Love coding and exploring new technologies
+- 🌐 Currently focused on MERN stack development.
 
-- 📫 How to reach me rsrashi0430@gmail.com
+<h2>🔧 Tech Stack</h2> 
+
+- Frontend : React
+- Backend : Node.js,Express
+- Database: MongoDB
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rashmiisharmil" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashmiisharmil" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/rashmi-sharmila-5ba642252/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi sharmila" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rashmi sharmila" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rashmi sharmila" height="30" width="40" /></a>
-<a href="https://instagram.com/_.rashmi_sharmila._" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rashmi_sharmila._" height="30" width="40"/></a>
 </p>
 
 <h3>Languages and Tools: </h3>         
