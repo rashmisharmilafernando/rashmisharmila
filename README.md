@@ -3,7 +3,7 @@
 
 <h3>I'm a passionate Computer Science student currently pursuing my BSc (Hons) at the Institute of Software Engineering (IJSE). I have a keen interest in full stack development and am currently immersed in a MERN stack project that I'm excited to share with you.</h3>
 
-<h2>🚀 About Me</h2> 
+<h2>🚀 About Me.</h2> 
 
 - 🎓 Studying BSc (Hons) in Computer Science at IJSE.
 - 💻 Love coding and exploring new technologies
